@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Islamic bot ",
-    "PREFIX": "/",
+    "PREFIX": ".",
     "ADMINBOT": [
         "100030820963381",
         "61576520552554",
